@@ -1,2 +1,2 @@
-# Grupo Ray
+# Curso
 Agentes de IA
